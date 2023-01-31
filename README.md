@@ -23,19 +23,19 @@
 
 #### Languages and Tools:
 <p align="left"> 
-  <img align="left" alt="Node" title="Node JS" width="73" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-  <img align="left" alt="TypeScript" title="TypeScript" width="33" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
+  <img align="left" alt="Node" title="Node JS" width="71" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
+  <img align="left" alt="TypeScript" title="TypeScript" width="31" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
   <img align="left" alt="React JS" title="React JS" width="36" src="https://github.com/devsrv/devsrv/blob/main/react-logo.png"/>
-  <img align="left" alt="Next JS" title="Next JS" width="57" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/>
-  <img align="left" alt="Laravel" title="Laravel" width="33" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
-  <img align="left" alt="Docker" title="Docker" width="130" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"/>
+  <img align="left" alt="Next JS" title="Next JS" width="64" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/>
+  <img align="left" alt="Laravel" title="Laravel" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
+  <img align="left" alt="Docker" title="Docker" width="45" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"/>
   
 </p>
 
 <br/>
 <br/>
 
-#### ⭐ Major Open-source Contributions: ﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+#### ⭐ Major Open-source Contributions: ⸻⸻⸻⸻⸻⸻⸻⸻
 | #  |  Repo | Link  | Description  |
 |---|---|---|---|
 | 1  |  [React Native](https://github.com/facebook/react-native-website) |  [PR1103](https://github.com/facebook/react-native-website/pull/1103) |  Contributed to 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤’s React Native 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 by fixing documentation |
