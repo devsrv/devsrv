@@ -17,6 +17,7 @@
 <a href="mailto:hello@itsrav.dev">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+🚀 website - [itsrav.dev](https://itsrav.dev/)
 
 <br/>
 
@@ -34,7 +35,7 @@
 <br/>
 <br/>
 
-#### Major Open-source Contributions: ﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
+#### ⭐ Major Open-source Contributions: ﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘﹘
 | #  |  Repo | Link  | Description  |
 |---|---|---|---|
 | 1  |  [React Native](https://github.com/facebook/react-native-website) |  [PR1103](https://github.com/facebook/react-native-website/pull/1103) |  Contributed to 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤’s React Native 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 by fixing documentation |
@@ -43,7 +44,7 @@
 | 4  |  [Livewire Table](https://github.com/rappasoft/laravel-livewire-tables) |  [PR379](https://github.com/rappasoft/laravel-livewire-tables/pull/379) |  Added a feature to make any column accept HTML or custom attribute for fine-grained control over table headers |
 | 5  |  [blade-emerald](https://github.com/aqquaa/blade-emerald) |  [Author](https://github.com/aqquaa/blade-emerald/graphs/contributors) |  Built a package that provides Emmet like Abbreviation to generate Laravel Blade Components with markup |
 
-<div align="center" >
+<div align="center">
   <img width="43%" src="https://github-readme-stats.vercel.app/api?username=devsrv&show_icons=true&locale=en" /> 
   <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsrv&)" />
 </div>
