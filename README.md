@@ -40,22 +40,24 @@
 🌱 Stacks I love: **MERN | LEMP**
 
 
-### Languages and Tools:
-<p align="left"> 
-  <img align="left" alt="Node" title="Node JS" width="62" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-  <img align="left" alt="TypeScript" title="TypeScript" width="24" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
-  <img align="left" alt="React JS" title="React JS" width="28" src="https://github.com/devsrv/devsrv/blob/main/react-logo.png"/>
-  <img align="left" alt="Next JS" title="Next JS" width="56" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/>
-  <img align="left" alt="Laravel" title="Laravel" width="26" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
-  <img align="left" alt="Docker" title="Docker" width="37" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"/>
+<h2 align="center">Languages and Tools</h2>
+<p align="center"> 
+  <img align="center" alt="Node" title="Node JS" width="82" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>&nbsp;
+  <img align="center" alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>&nbsp;
+  <img align="center" alt="TypeScript" title="TypeScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
+  <img align="center" alt="React JS" title="React JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;
+  <img align="center" alt="Redux" title="Redux" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="Next JS" title="Next JS" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="Laravel" title="Laravel" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>&nbsp;
+  <img align="center" alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
+  <img align="center" alt="MongoDB" title="MongoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Mysql" title="Mysql" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>&nbsp;
+  <img align="center" alt="TailwindCSS" title="TailwindCSS" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
 </p>
-
-<br/>
-<br/>
 
 ---
 
-## ✨ Open-source Contributions
+## ✨ Contributions
 
 | #  |  Repo | Link  | Description  |
 |---|---|---|---|
@@ -71,7 +73,7 @@
 2. [__React Conditional Rendering__ - can custom component replace inline conditional JSX](https://itsrav.dev/articles/react-conditional-rendering-can-custom-component-replace-inline-conditional-jsx)
 3. [Organize your Laravel routes for better and maintainable code](https://ravr.medium.com/organize-your-laravel-routes-for-better-and-maintainable-code-4ad9b76aed0f)
 
-## ⚡ Github Activity
+## ⚡ Activity
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=devsrv&show_icons=true&locale=en" /> 
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsrv&)" />
