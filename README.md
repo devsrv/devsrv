@@ -2,29 +2,29 @@
 
 <p align="center">
   <a href="https://github.com/devsrv/" target="_blank">
-  <img align="center" alt="Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  
-  <a href="https://stackblitz.com/@rsrv1" target="_blank">
-  <img align="center" alt="StackBlitz" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackblitz.svg" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/7819438/devsourav" target="_blank">
-   <img align="center" alt="StackOverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackoverflow.svg" />
+  <img align="center" alt="Github" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   &nbsp;
+  <a href="https://stackblitz.com/@rsrv1" target="_blank">
+  <img align="center" alt="StackBlitz" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackblitz.svg" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/7819438/devsourav" target="_blank">
+   <img align="center" alt="StackOverflow" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/stackoverflow.svg" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/im.sourav" target="_blank">
-   <img align="center" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+   <img align="center" alt="Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-   &nbsp;
+   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sourav-rakshit1" target="_blank">
-   <img align="center" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+   <img align="center" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-   &nbsp;
+   &nbsp;&nbsp;
   <a href="https://twitter.com/srvrksh" target="_blank">
-   <img align="center" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+   <img align="center" alt="Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-   &nbsp;
+   &nbsp;&nbsp;
   <a href="mailto:hello@itsrav.dev">
    <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
@@ -46,9 +46,8 @@
   <img align="center" alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>&nbsp;
   <img align="center" alt="TypeScript" title="TypeScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
   <img align="center" alt="React JS" title="React JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;
-  <img align="center" alt="Redux" title="Redux" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&nbsp;&nbsp;
-  <img align="center" alt="Next JS" title="Next JS" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>&nbsp;&nbsp;
-  <img align="center" alt="Laravel" title="Laravel" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>&nbsp;
+  <img align="center" alt="Next JS" title="Next JS" width="78" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="Laravel" title="Laravel" width="34" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>&nbsp;
   <img align="center" alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align="center" alt="MongoDB" title="MongoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="Mysql" title="Mysql" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>&nbsp;
@@ -79,4 +78,11 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devsrv&)" />
 </div>
 
-[![Sourav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devsrv&theme=nord)](https://github.com/devsrv/)
+<br/>
+
+<details>
+<summary> 🏆 &nbsp; More <i>Github Stats</i></summary>
+  
+ [![Sourav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devsrv&theme=nord)](https://github.com/devsrv/)
+  
+</details>
