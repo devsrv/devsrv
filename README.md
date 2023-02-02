@@ -68,7 +68,7 @@
 
 ## 📝 Articles
 
-1. [__Streaming HTTP response in PHP__ - turn long-running process into realtime UI - __🏆 Google Rank 1st__](https://itsrav.dev/articles/streaming-http-response-in-php-to-turn-long-running-process-into-realtime-experience)
+1. [__Streaming HTTP response in PHP__ - turn long-running process into realtime UI](https://itsrav.dev/articles/streaming-http-response-in-php-to-turn-long-running-process-into-realtime-experience) - [__🏆 Google Rank 1st__](https://www.google.com/search?q=Streaming+http+response+in+php)
 2. [__React Conditional Rendering__ - can custom component replace inline conditional JSX](https://itsrav.dev/articles/react-conditional-rendering-can-custom-component-replace-inline-conditional-jsx)
 3. [Organize your Laravel routes for better and maintainable code](https://ravr.medium.com/organize-your-laravel-routes-for-better-and-maintainable-code-4ad9b76aed0f)
 
@@ -81,7 +81,7 @@
 <br/>
 
 <details>
-<summary> 🏆 &nbsp; More <i>Github Stats</i></summary>
+<summary> 🚩 &nbsp; More <i>Github Stats</i></summary>
   
  [![Sourav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devsrv&theme=nord)](https://github.com/devsrv/)
   
