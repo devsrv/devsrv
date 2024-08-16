@@ -32,7 +32,7 @@
 
 
 
-#### Full-Stack developer with 7+ years in Front-End / UI & API Development. Specialize in TypeScript | React JS | Node JS | Laravel
+#### Full-Stack developer with 9+ years in Front-End / UI & API Development. Specialize in TypeScript | React JS | Node JS | Laravel
 
 > Over the years developed cross-browser compatible accessible UI with React and Redux. Architected scalable RESTful APIs, deployed in could native platforms establishing secure communication between front and backend.
 
