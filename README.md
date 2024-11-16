@@ -32,16 +32,17 @@
 
 
 
-#### Full-Stack developer with 9+ years in Front-End / UI & API Development. Specialize in TypeScript | React JS | Node JS | Laravel
+#### Full-Stack developer with 9+ years in Front-End / UI & API Development. Specialize in TypeScript | React JS | Python | Laravel
 
 > Over the years developed cross-browser compatible accessible UI with React and Redux. Architected scalable RESTful APIs, deployed in could native platforms establishing secure communication between front and backend.
 
-🏅 Received Best Answer [𝐆𝐨𝐥𝐝 𝐁𝐚𝐝𝐠𝐞](https://stackoverflow.com/users/7819438/devsourav) with over 𝟐.𝟒𝐤+ StackOverflow reputation, reached ~𝟐𝟔𝟓𝐤 people <br/>
+🏅 Received Best Answer [𝐆𝐨𝐥𝐝 𝐁𝐚𝐝𝐠𝐞](https://stackoverflow.com/users/7819438/devsourav) with over 𝟐.𝟓𝐤+ StackOverflow reputation, reached ~𝟐𝟗𝟖𝐤 people <br/>
 🌱 Stacks I love: **MERN | LEMP**
 
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
+  <img align="center" alt="Python" title="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>&nbsp;
   <img align="center" alt="Node" title="Node JS" width="82" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>&nbsp;
   <img align="center" alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>&nbsp;
   <img align="center" alt="TypeScript" title="TypeScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
@@ -51,7 +52,7 @@
   <img align="center" alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   <img align="center" alt="MongoDB" title="MongoDB" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img align="center" alt="Mysql" title="Mysql" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>&nbsp;
-  <img align="center" alt="TailwindCSS" title="TailwindCSS" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+  <img align="center" alt="TailwindCSS" title="TailwindCSS" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </p>
 
 ---
